@@ -1,4 +1,4 @@
-# DecodeLabs_Internship
+#  DecodeLabs Java Programming Internship — Projects
 # Number Guessing Game — Java
 
 A console-based number guessing game built as **Project 1** for the **DecodeLabs Java Programming Internship (Batch 2026)**.
